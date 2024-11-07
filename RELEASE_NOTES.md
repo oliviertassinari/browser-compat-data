@@ -1,5 +1,31 @@
 # @mdn/browser-compat-data release notes
 
+## [v5.6.14](https://github.com/mdn/browser-compat-data/releases/tag/v5.6.14)
+
+November 7, 2024
+
+### Removals
+
+- `css.types.frequency` ([#24969](https://github.com/mdn/browser-compat-data/pull/24969))
+- `css.types.frequency-percentage` ([#24969](https://github.com/mdn/browser-compat-data/pull/24969))
+- `css.types.frequency.hz` ([#24969](https://github.com/mdn/browser-compat-data/pull/24969))
+- `css.types.frequency.khz` ([#24969](https://github.com/mdn/browser-compat-data/pull/24969))
+
+### Additions
+
+- `browsers.nodejs.releases.23.0.0` ([#24953](https://github.com/mdn/browser-compat-data/pull/24953))
+- `html.manifest.display.browser` ([#24970](https://github.com/mdn/browser-compat-data/pull/24970))
+- `html.manifest.display.fullscreen` ([#24970](https://github.com/mdn/browser-compat-data/pull/24970))
+- `html.manifest.display.minimal-ui` ([#24970](https://github.com/mdn/browser-compat-data/pull/24970))
+- `html.manifest.display.standalone` ([#24970](https://github.com/mdn/browser-compat-data/pull/24970))
+
+### Statistics
+
+- 8 contributors have changed 39 files with 314 additions and 289 deletions in 16 commits ([`v5.6.13...v5.6.14`](https://github.com/mdn/browser-compat-data/compare/v5.6.13...v5.6.14))
+- 16,706 total features
+- 1,115 total contributors
+- 4,961 total stargazers
+
 ## [v5.6.13](https://github.com/mdn/browser-compat-data/releases/tag/v5.6.13)
 
 November 5, 2024
